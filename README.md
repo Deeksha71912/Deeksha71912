@@ -136,7 +136,7 @@ Machine Learning project focused on early prediction and detection of blood canc
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-Certified-orange?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MongoDB-Certified-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
 

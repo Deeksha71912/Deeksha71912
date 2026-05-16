@@ -1,7 +1,15 @@
 ## Hi there 👋
-hello
-hii krupa
-hii chaithra
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Hi+I'm+Deeksha+Satish;Future+Software+Developer;Passionate+about+Technology+💜" alt="Typing SVG" />
+
+</div>
+
+  <br><br>
+
+  <!-- Profile Views -->
+ <img src="https://komarev.com/ghpvc/?username=Deeksha71912&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <br><br>
 <!--
 **Deeksha71912/Deeksha71912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -83,9 +83,9 @@ Passionate and motivated aspiring software developer with a strong interest in b
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deeksha71912&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deeksha71912&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha71912&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha71912&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,9 +106,9 @@ Developed a responsive online shopping application with product management and s
 - Dynamic product display
 
 ### 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+- Express.js
+- Node.js
+- React.js
 - MongoDB
 
 ---
@@ -152,6 +152,8 @@ SMVIT College, Bangalore
 ---
 
 ## Bachelor of Computer Applications (BCA)
+
+SDM College Mysore
 
 Focused on programming, databases, software development, and computer science fundamentals.
 

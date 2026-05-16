@@ -1,5 +1,5 @@
 ## Hi there 👋
-```md
+
 <div align="center">
 
 # Deeksha Satish
@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 # About Me
 
@@ -27,7 +26,6 @@
 🚀 Interested in modern web technologies, AI solutions, and problem-solving.  
 🌱 Continuously learning and improving development skills through projects and practical implementation.  
 
----
 
 # Tech Stack
 
@@ -37,7 +35,6 @@
 
 </div>
 
----
 
 # Featured Projects
 
@@ -57,7 +54,6 @@
 - JavaScript
 - MongoDB
 
----
 
 ## Early Blood Cancer Detection Using Machine Learning
 
@@ -74,14 +70,12 @@
 - Machine Learning
 - Data Analysis
 
----
 
 # Certifications
 
 🏆 Java Certification  
 🏆 MongoDB Certification  
 
----
 
 # Education
 
@@ -90,7 +84,6 @@ SMVIT College, Bangalore
 
 🎓 Bachelor of Computer Applications (BCA)
 
----
 
 # GitHub Activity
 
@@ -100,7 +93,6 @@ SMVIT College, Bangalore
 
 </div>
 
----
 
 # Connect With Me
 
@@ -120,17 +112,15 @@ SMVIT College, Bangalore
 
 </div>
 
----
 
 <div align="center">
 
 ### “Consistency and continuous learning build great developers.”
 
 </div>
-```
 
 
----
+
 
 # About Me
 
@@ -139,7 +129,6 @@ SMVIT College, Bangalore
 🚀 Interested in modern web technologies, AI solutions, and problem-solving.  
 🌱 Continuously learning and improving development skills through projects and practical implementation.  
 
----
 
 # Tech Stack
 
@@ -149,7 +138,6 @@ SMVIT College, Bangalore
 
 </div>
 
----
 
 # Featured Projects
 
@@ -169,7 +157,6 @@ SMVIT College, Bangalore
 - JavaScript
 - MongoDB
 
----
 
 ## Early Blood Cancer Detection Using Machine Learning
 
@@ -186,14 +173,14 @@ SMVIT College, Bangalore
 - Machine Learning
 - Data Analysis
 
----
+
 
 # Certifications
 
 🏆 Java Certification  
 🏆 MongoDB Certification  
 
----
+
 
 # Education
 
@@ -202,7 +189,7 @@ SMVIT College, Bangalore
 
 🎓 Bachelor of Computer Applications (BCA)
 
----
+
 
 # GitHub Activity
 
@@ -212,7 +199,7 @@ SMVIT College, Bangalore
 
 </div>
 
----
+
 
 # Connect With Me
 
@@ -232,14 +219,14 @@ SMVIT College, Bangalore
 
 </div>
 
----
+
 
 <div align="center">
 
 ### “Consistency and continuous learning build great developers.”
 
 </div>
-```
+
 
 <!--
 **Deeksha71912/Deeksha71912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
